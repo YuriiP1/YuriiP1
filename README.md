@@ -1,7 +1,4 @@
-## 👋 Hello World, I’m @YuriiP1
-- 👀 I’m interested in java development.
-- 🌱 I’m currently learning Java, Spring Boot and etc.
-- 📫 Telegram: @yuriiCreator
+
 
 
 <!---
